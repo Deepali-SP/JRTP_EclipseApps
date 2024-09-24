@@ -1,3 +1,3 @@
-<h1 style="color:red; text-align:center"></h1>
+<h1 style="color:red; text-align:center"> Jenkins Web Applications</h1>
 <br><br>
-<a href="wishUrl"> show wish message</a>
+<a href="wish"> show wish message</a>

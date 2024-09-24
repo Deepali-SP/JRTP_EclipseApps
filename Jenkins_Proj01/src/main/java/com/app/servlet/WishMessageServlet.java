@@ -9,11 +9,10 @@ import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
-@WebServlet("wishUrl")
+@WebServlet("/wish")
 public class WishMessageServlet extends HttpServlet{
 
 
-	private static final long serialVersionUID = 9049772782062220070L;
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
